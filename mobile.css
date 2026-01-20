@@ -27,6 +27,8 @@ body {
 @media (max-width: 991px) {
   .wrapper {
     padding: 0 20px;
+    display: flex;
+    flex-direction: column;
   }
 
   /* Stack columns on tablet */
@@ -36,13 +38,17 @@ body {
     position: static !important;
   }
 
-  .right {
-    padding-top: 20px;
-  }
-
+  /* Put left column first in mobile order */
   .left {
+    order: 1;
     padding-bottom: 20px;
     margin-bottom: 30px;
+  }
+
+  /* Put right column second in mobile order */
+  .right {
+    order: 2;
+    padding-top: 20px;
   }
 }
 
