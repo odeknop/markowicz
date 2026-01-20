@@ -60,7 +60,7 @@ const translations = {
     directions: "Itinéraire",
     contactMe: "Pour me contacter",
     contactPreference: "Par mail (ma préférence) :",
-    contactSms: "Par SMS :",
+    contactSms: "Par SMS : ",
     contactCallCenter: "Laisser un message au call-center :",
 
     // Modal
@@ -128,7 +128,7 @@ const translations = {
     directions: "Directions",
     contactMe: "Contact me",
     contactPreference: "By email (my preference):",
-    contactSms: "By SMS:",
+    contactSms: "By SMS: ",
     contactCallCenter: "Leave a message at the call-center:",
 
     // Modal
