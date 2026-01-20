@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Eveline Markowicz
+N:Markowicz;Eveline;Dr.;;
+TITLE:Gynécologue
+ORG:Cabinet Dr. Eveline Markowicz
+ADR;TYPE=WORK:;;Avenue Winston Churchill 28/1;Bruxelles;;1180;Belgique
+TEL;TYPE=CELL:+32 487 781 007
+EMAIL:gyneco.markowicz@gmail.com
+URL:http://www.gyneco-markowicz.be
+NOTE:Gynécologie / Ménopause
+END:VCARD
