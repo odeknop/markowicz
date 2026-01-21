@@ -9,49 +9,55 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <title>Eveline Markowicz</title>
     <meta name="description" content="Dr. Eveline Markowicz - Gynécologie &amp; Ménopause à Uccle. Avenue Winston Churchill 28/1 1180 Bruxelles.">
-    <link rel="stylesheet" href="style.vanilla.css">
+    <link rel="stylesheet" href="Eveline%20Markowicz_files/style.css" media="screen" charset="utf-8">
+    <link rel="stylesheet" href="mobile.css" media="screen" charset="utf-8">
     <script src="Eveline%20Markowicz_files/rqu6fxs.js"></script>
     <style type="text/css">.tk-proxima-nova{font-family:"proxima-nova",sans-serif;}</style><style type="text/css">@font-face{font-family:tk-proxima-nova-n1;src:url(https://use.typekit.net/af/f6bc94/00000000000000003b9ad1bd/27/l?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n1&v=3) format("woff2"),url(https://use.typekit.net/af/f6bc94/00000000000000003b9ad1bd/27/d?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n1&v=3) format("woff"),url(https://use.typekit.net/af/f6bc94/00000000000000003b9ad1bd/27/a?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n1&v=3) format("opentype");font-weight:100;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-proxima-nova-n6;src:url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/l?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/d?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/a?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-proxima-nova-n4;src:url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/l?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/d?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/a?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}</style><script>try{Typekit.load({ async: true });}catch(e){}</script><style type="text/css">@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/f6bc94/00000000000000003b9ad1bd/27/l?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n1&v=3) format("woff2"),url(https://use.typekit.net/af/f6bc94/00000000000000003b9ad1bd/27/d?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n1&v=3) format("woff"),url(https://use.typekit.net/af/f6bc94/00000000000000003b9ad1bd/27/a?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n1&v=3) format("opentype");font-weight:100;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/l?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/d?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/04b81b/00000000000000003b9ad1bb/27/a?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/l?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/d?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/a?primer=fac139901e895861a7a2f15f683e42a34feac8e6cf6c36994207434a2de7e913&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}</style>
   </head>
   <body>
-    <div class="container">
-      <div class="wrapper">
-        <div class="right">
-          <ul class="lang-selector">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="wrapper">
+          <div class="col-sm-8 col-sm-push-4 right">
+            <div class="col-wrapper">
+              <ul class="lang-selector list-inline">
               	<li class="active"><a href="http://www.gyneco-markowicz.be/?lang=fr_BE">FR</a></li>
               	<li>/</li>
                 <li><a href="http://www.gyneco-markowicz.be/?lang=en_GB">EN</a></li>
               </ul>
               <header>
-                <div class="header-media">
-                  <div class="header-photo">
+                <div class="media">
+                  <div class="media-left">
                     <img src="Eveline%20Markowicz_files/profile.png" alt="Dr. Eveline Markowicz" width="104" height="104">
                   </div>
-                  <div class="header-content">
+                  <div class="media-body">
                     <h1><span>Dr.</span> Eveline Markowicz</h1>
                     <p class="prof" data-i18n="profession">Gynécologie / Ménopause</p>
                   </div>
                 </div>
-                <div class="dots"></div>
+                <div class="dots text-max-width"></div>
               </header>
               <h2><span class="bul">•</span> <span data-i18n="existingPatient">Vous êtes déjà une patiente</span></h2>
               <p class="text-max-width" data-i18n="existingPatientText" data-i18n-html>Vous souhaitez prendre un rendez-vous : <a href="https://application.mikrono.com/?assoId=em-3b1457db-6999-4ca7-8b1b-08936172ea92&amp;locale=fr">connectez-vous au site de rendez-vous</a> ou contactez le Call Center (<a class="reset" href="tel:0487 781 007"><b>0487 781 007</b></a>) ou envoyez moi un SMS (<a class="reset" href="tel:0487 781 007">0487 781 007</a>) ou un mail (<a href="mailto:gyneco.markowicz@gmail.com">gyneco.markowicz@gmail.com</a>). Pas de WhatsApp.</p>
               <!-- Button trigger modal -->
               <!--<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#connect" data-keyboard="false">
                 Prendre un rendez-vous en ligne              </button>-->
-              <a class="btn btn-large" id="bookAppointmentBtn" href="https://application.mikrono.com/?assoId=em-3b1457db-6999-4ca7-8b1b-08936172ea92&amp;locale=fr" data-i18n="bookAppointmentBtn">
+              <a class="btn btn-primary btn-lg" id="bookAppointmentBtn" href="https://application.mikrono.com/?assoId=em-3b1457db-6999-4ca7-8b1b-08936172ea92&amp;locale=fr" data-i18n="bookAppointmentBtn">
                 Prendre un rendez-vous en ligne
               </a>
               <!-- Modal -->
-              <div class="modal" id="connect">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <button type="button" class="modal-close" onclick="document.getElementById('connect').classList.remove('show')">×</button>
-                    <h3 class="modal-title" id="connectLabel" data-i18n="modalTitle">Prendre un rendez-vous : Connexion</h3>
-                  </div>
-                  <div class="modal-body">
-                    <!-- #mikrono login form -->
-                    <div id="mikrono"></div>
+              <div class="modal fade" id="connect" tabindex="-1" role="dialog" aria-labelledby="connectLabel">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                      <h4 class="modal-title" id="connectLabel" data-i18n="modalTitle">Prendre un rendez-vous : Connexion</h4>
+                    </div>
+                    <div class="modal-body">
+                      <!-- #mikrono login form -->
+                      <div id="mikrono" class="text-max-width">
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -91,27 +97,32 @@
                 <li><span class="bul">•</span> <span data-i18n="doc6">de votre éventuelle coloscopie,</span></li>
                 <li><span class="bul">•</span> <span data-i18n="doc7">de tout autre renseignement médical susceptible d'améliorer votre prise en charge.</span></li>
               </ul>
-              <div class="dots" style="margin-top: 24px; margin-bottom: 28px"></div>
+              <div class="dots text-max-width" style="margin-top: 24px; margin-bottom: 28px"></div>
               <h2><span class="bul">•</span> <span data-i18n="emergency">Urgences</span></h2>
               <p data-i18n="emergencyText" data-i18n-html>Veuillez vous rendre à l'hôpital Chirec Delta, boulevard du Triomphe 201, 1160 Bruxelles, <a class="reset" href="tel:02 434 88 02"><b>02 434 88 02</b></a>. Le gynécologue de garde vous prendra en charge.</p>
-              <footer>© 2026 E. Markowicz | Design <a href="http://deselys.net/">deselys.net</a> + <a href="http://olide.me/">olide.me</a></footer>
+              <footer>© 2026 E. Markowicz | Design <a href="http://deselys.net/">deselys.net</a></footer>
+            </div>
           </div>
-          <div class="left">
-            <h2><span class="bul">•</span> <span data-i18n="officeAddress">Adresse du cabinet</span></h2>
-            <p>Avenue Winston Churchill 28/1 <br>1180 Bruxelles</p>
-            <a href="https://goo.gl/maps/51Jx9qyYDJB2" class="btn btn-inverse" data-i18n="directions">Itinéraire</a>
-            <p style="margin-top: 11px"><b>STIB</b> arrêt Vanderkindere<br>Tram 10 / 4 / 7 / 92<br>&nbsp;<br>&nbsp;</p>
-            <h2 data-i18n="contactMe">Pour me contacter</h2>
-            <p><b data-i18n="contactPreference">Par mail (ma préférence) :</b><br><a href="mailto:gyneco.markowicz@gmail.com" class="reset">gyneco.markowicz@gmail.com</a></p>
-            <p><b data-i18n="contactSms">Par SMS : </b><a class="reset" href="tel:0487 781 007">0487 781 007</a></p>
-            <p><b data-i18n="contactCallCenter">Laisser un message au call-center :</b><br><a class="reset" href="tel:0487 781 007">0487 781 007</a></p>
-            <p class="vcard"><b><a class="reset" href="eveline-markowicz.vcf">vCard</a></b></p>
+          <div class="col-sm-4 col-sm-pull-8 left">
+            <div class="col-wrapper">
+              <h2 class="inverse"><span class="bul">•</span> <span data-i18n="officeAddress">Adresse du cabinet</span></h2>
+              <p>Avenue Winston Churchill 28/1 <br>1180 Bruxelles</p>
+              <a href="https://goo.gl/maps/51Jx9qyYDJB2" class="btn btn-default inverse" data-i18n="directions">Itinéraire</a>
+              <p style="margin-top: 11px"><b>STIB</b> arrêt Vanderkindere<br>Tram 10 / 4 / 7 / 92<br>&nbsp;<br>&nbsp;</p>
+              <h2 class="inverse" data-i18n="contactMe">Pour me contacter</h2>
+              <p><b data-i18n="contactPreference">Par mail (ma préférence) :</b><br><a href="mailto:gyneco.markowicz@gmail.com" class="reset">gyneco.markowicz@gmail.com</a></p>
+              <p><b data-i18n="contactSms">Par SMS : </b><a class="reset" href="tel:0487 781 007">0487 781 007</a></p>
+              <p><b data-i18n="contactCallCenter">Laisser un message au call-center :</b><br><a class="reset" href="tel:0487 781 007">0487 781 007</a></p>
+              <p class="vcard"><b><a class="reset" href="eveline-markowicz.vcf">vCard</a></b></p>
+            </div>
           </div>
         </div>
       </div>
     </div>
-    <script src="translations.js"></script>
-    <script src="i18n.js"></script>
+    <script type="text/javascript" src="Eveline%20Markowicz_files/jquery.min.js"></script>
+    <script type="text/javascript" src="Eveline%20Markowicz_files/bootstrap.min.js"></script>
+    <script type="text/javascript" src="translations.js"></script>
+    <script type="text/javascript" src="i18n.js"></script>
 
 
 </body></html>
