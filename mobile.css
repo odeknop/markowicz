@@ -1,8 +1,19 @@
 /* Mobile Optimizations for Markowicz Website */
 
 /* Global styles */
-.checklist {
+ul.checklist li {
   margin-bottom: 8px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #e98400;
+}
+
+@media (min-width: 767px) {
+  ul.checklist {
+      margin-bottom:30px
+  }
 }
 
 /* Only apply changes on small screens - don't break desktop! */
