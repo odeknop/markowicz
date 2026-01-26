@@ -8,12 +8,12 @@ const translations = {
 
     // Main sections
     existingPatient: "Vous êtes déjà une patiente",
-    existingPatientText: "Vous souhaitez prendre un rendez-vous : <a href=\"https://application.mikrono.com/?assoId=em-3b1457db-6999-4ca7-8b1b-08936172ea92&locale=fr\">connectez-vous au site de rendez-vous</a> ou contactez le Call Center (<a class=\"reset\" href=\"tel:0487 781 007\"><b>0487 781 007</b></a>) ou envoyez moi un SMS (<a class=\"reset\" href=\"tel:0487 781 007\">0487 781 007</a>) ou un mail (<a href=\"mailto:gyneco.markowicz@gmail.com\">gyneco.markowicz@gmail.com</a>). Pas de WhatsApp.",
+    existingPatientText: "Vous souhaitez prendre un rendez-vous : <a href=\"https://application.mikrono.com/?assoId=em-3b1457db-6999-4ca7-8b1b-08936172ea92&locale=fr\">connectez-vous au site de rendez-vous</a> ou contactez le Call Center (<a class=\"reset\" href=\"tel:+32 487 781 007\"><b>0487 781 007</b></a>) ou envoyez moi un SMS (<a class=\"reset\" href=\"tel+32 487 781 007\"><b>0487 781 007</b></a>) ou un mail (<a href=\"mailto:gyneco.markowicz@gmail.com\">gyneco.markowicz@gmail.com</a>). Pas de WhatsApp.",
     bookAppointmentBtn: "Prendre un rendez-vous en ligne",
 
     newPatient: "Vous n'êtes pas encore une patiente",
-    newPatientText1: "Veuillez d'abord prendre contact avec le Call Center au <b><a class=\"reset\" href=\"tel:0487 781 007\">0487 781 007</a></b> (lundi au vendredi de 8h30 à 18h00).",
-    newPatientText2: "Ou envoyez moi un SMS (<a class=\"reset\" href=\"tel:0487 781 007\">0487 781 007</a>) ou un mail (<a href=\"mailto:gyneco.markowicz@gmail.com\">gyneco.markowicz@gmail.com</a>) avec votre nom de jeune fille, votre date de naissance, votre numéro de mobile et votre adresse mail avec l'objet de votre consultation. Pas de WhatsApp.",
+    newPatientText1: "Veuillez d'abord prendre contact avec le Call Center au <b><a class=\"reset\" href=\"tel:+32 487 781 007\">0487 781 007</a></b> (lundi au vendredi de 8h30 à 18h00).",
+    newPatientText2: "Ou envoyez moi un SMS (<a class=\"reset\" href=\"tel:+32 487 781 007\"><b>0487 781 007</b></a>) ou un mail (<a href=\"mailto:gyneco.markowicz@gmail.com\">gyneco.markowicz@gmail.com</a>) avec votre nom de jeune fille, votre date de naissance, votre numéro de mobile et votre adresse mail avec l'objet de votre consultation. Pas de WhatsApp.",
 
     pregnancy: "Grossesse",
     pregnancyText: "Je ne réalise plus d'accouchements et de suivi de grossesse.",
@@ -62,6 +62,7 @@ const translations = {
     contactPreference: "Par mail (ma préférence) :",
     contactSms: "Par SMS : ",
     contactCallCenter: "Laisser un message au call-center :",
+    noWhatsApp: "Pas de WhatsApp",
 
     // Modal
     modalTitle: "Prendre un rendez-vous : Connexion"
@@ -76,12 +77,12 @@ const translations = {
 
     // Main sections
     existingPatient: "You are already a patient",
-    existingPatientText: "If you wish to make an appointment: <a href=\"https://application.mikrono.com/?assoId=em-3b1457db-6999-4ca7-8b1b-08936172ea92&locale=en\">Book an appointment online</a> or contact the Call Center (<a class=\"reset\" href=\"tel:+32 487 781 007\"><b>+32 487 78 10 07</b></a>), or send me an SMS (<a class=\"reset\" href=\"tel:+32 487 781 007\">+32 487 78 10 07</a>) or an email (<a href=\"mailto:gyneco.markowicz@gmail.com\">gyneco.markowicz@gmail.com</a>). No WhatsApp.",
+    existingPatientText: "If you wish to make an appointment: <a href=\"https://application.mikrono.com/?assoId=em-3b1457db-6999-4ca7-8b1b-08936172ea92&locale=en\">Book an appointment online</a> or contact the Call Center (<a class=\"reset\" href=\"tel:+32 487 781 007\"><b>+32 487 78 10 07</b></a>), or send me an SMS (<a class=\"reset\" href=\"tel:+32 487 781 007\"><b>+32 487 78 10 07</b></a>) or an email (<a href=\"mailto:gyneco.markowicz@gmail.com\">gyneco.markowicz@gmail.com</a>). No WhatsApp.",
     bookAppointmentBtn: "Book an appointment online",
 
     newPatient: "You are not yet a patient",
     newPatientText1: "Please first contact the Call Center at <b><a class=\"reset\" href=\"tel:+32 487 781 007\">+32 487 78 10 07</a></b> (Monday to Friday, 8:30 a.m. to 6:00 p.m.),",
-    newPatientText2: "or send me an SMS (+32 487 78 10 07) or an email (gyneco.markowicz@gmail.com) with your maiden name, your date of birth, your mobile number, your email address, and the reason for your consultation in the subject line. No WhatsApp.",
+    newPatientText2: "or send me an SMS (<a class=\"reset\" href=\"tel:+32 487 781 007\"><b>+32 487 78 10 07</b></a>) or an email (<a href=\"mailto:gyneco.markowicz@gmail.com\">gyneco.markowicz@gmail.com</a>) with your maiden name, your date of birth, your mobile number, your email address, and the reason for your consultation in the subject line. No WhatsApp.",
 
     pregnancy: "Pregnancy",
     pregnancyText: "I no longer perform deliveries or pregnancy follow-ups.",
@@ -130,6 +131,7 @@ const translations = {
     contactPreference: "By email (my preference):",
     contactSms: "By SMS: ",
     contactCallCenter: "Leave a message at the call-center:",
+    noWhatsApp: "No WhatsApp",
 
     // Modal
     modalTitle: "Make an appointment: Login"
